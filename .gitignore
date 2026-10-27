@@ -1,0 +1,4 @@
+node_modules
+
+# Security: Prevent VS Code auto-tasks from being committed
+.vscode/
